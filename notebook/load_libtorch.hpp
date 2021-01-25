@@ -33,9 +33,10 @@
 
 #elif __APPLE__
 
-#pragma cling add_library_path("/Users/liuhang/codes/github/libtorch/release/lib")
-#pragma cling add_include_path("/Users/liuhang/codes/github/libtorch/release/include")
-#pragma cling add_include_path("/Users/liuhang/codes/github/libtorch/release/include/torch/csrc/api/include")
+#pragma cling add_library_path("/opt/libtorch/lib")
+#pragma cling add_include_path("/opt/libtorch/include")
+#pragma cling add_include_path("/opt/libtorch/include/torch/csrc/api/include")
+
 
 #pragma cling load("libtorch.dylib")
 
