@@ -23,9 +23,9 @@
 
 #if defined(__linux__)
 
-#pragma cling add_library_path("/home/ubuntu/liuhang/libtorch/pytorch-install/lib")
-#pragma cling add_include_path("/home/ubuntu/liuhang/libtorch/pytorch-install/include")
-#pragma cling add_include_path("/home/ubuntu/liuhang/libtorch/pytorch-install/include/torch/csrc/api/include")
+#pragma cling add_library_path("/opt/libtorch/lib")
+#pragma cling add_include_path("/opt/libtorch/include")
+#pragma cling add_include_path("/opt/libtorch/include/torch/csrc/api/include")
 
 #pragma cling load("libc10_cuda.so")
 #pragma cling load("libc10.so")
