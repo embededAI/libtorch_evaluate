@@ -3,14 +3,16 @@
  *
  *       Filename:  load_libtorch.hpp
  *
- *    Description:  
+ *    Description:  load libtorch related header files and libs.
+ *                  first, compile libtorch from pytorch source code；
+ *                  then, put the results into /opt folder
  *
  *        Version:  1.0
  *        Created:  01/24/2021 03:01:43
- *       Revision:  none
+ *       Revision:  1.0.2
  *       Compiler:  gcc
  *
- *         Author:  YOUR NAME (), 
+ *         Author:  hanliu (), 
  *   Organization:  
  *
  * =====================================================================================
@@ -27,8 +29,6 @@
 #pragma cling add_include_path("/opt/libtorch/include")
 #pragma cling add_include_path("/opt/libtorch/include/torch/csrc/api/include")
 
-#pragma cling load("libc10_cuda.so")
-#pragma cling load("libc10.so")
 #pragma cling load("libtorch.so")
 
 #elif __APPLE__
