@@ -3,7 +3,7 @@ project(basicOps)
 
 
 if(NOT DEFINED ENV{Torch_DIR})
-  set( ENV{Torch_DIR} "${PROJECT_SOURCE_DIR}/../../pytorch-install/share/cmake" )
+  set( ENV{Torch_DIR} "/opt/libtorch/share/cmake" )
 endif()
 
 ##
@@ -11,7 +11,7 @@ endif()
 #  https://github.com/pytorch/pytorch/blob/master/docs/libtorch.rst
 #  all result can be found in 'pytorch-install' folder
 ##
-find_package(gflags REQUIRED)
+#find_package(gflags REQUIRED)
 find_package(Torch REQUIRED ${TORCH_PATH})
 find_package(OpenCV REQUIRED
   COMPONENTS
