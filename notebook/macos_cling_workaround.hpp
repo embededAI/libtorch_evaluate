@@ -3,14 +3,14 @@
  *
  *       Filename:  macos_cling_workaround.hpp
  *
- *    Description:  q workaround to solve compile error on MacOS
+ *    Description:  a workaround to solve compile error on MacOS
  *
  *        Version:  1.0
  *        Created:  01/23/2021 23:08:06
  *       Revision:  none
  *       Compiler:  gcc
  *
- *         Author:  YOUR NAME (), 
+ *         Author:  hanliu (liuhang20011@163.com), 
  *   Organization:  
  *
  * =====================================================================================

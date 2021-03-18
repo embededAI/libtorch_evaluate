@@ -12,7 +12,7 @@
  *       Revision:  1.0.2
  *       Compiler:  gcc
  *
- *         Author:  hanliu (), 
+ *         Author:  hanliu (liuhang20011@163.com), 
  *   Organization:  
  *
  * =====================================================================================
