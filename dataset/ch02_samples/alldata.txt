@@ -1,0 +1,12 @@
+/home/lh/github/libtorch/libtorch_evaluate/dataset/ch02_samples/FLIR_00001.jpeg
+/home/lh/github/libtorch/libtorch_evaluate/dataset/ch02_samples/FLIR_00001.txt
+/home/lh/github/libtorch/libtorch_evaluate/dataset/ch02_samples/FLIR_00002.jpeg
+/home/lh/github/libtorch/libtorch_evaluate/dataset/ch02_samples/FLIR_00002.txt
+/home/lh/github/libtorch/libtorch_evaluate/dataset/ch02_samples/FLIR_00003.jpeg
+/home/lh/github/libtorch/libtorch_evaluate/dataset/ch02_samples/FLIR_00003.txt
+/home/lh/github/libtorch/libtorch_evaluate/dataset/ch02_samples/FLIR_00004.jpeg
+/home/lh/github/libtorch/libtorch_evaluate/dataset/ch02_samples/FLIR_00004.txt
+/home/lh/github/libtorch/libtorch_evaluate/dataset/ch02_samples/FLIR_00005.jpeg
+/home/lh/github/libtorch/libtorch_evaluate/dataset/ch02_samples/FLIR_00005.txt
+/home/lh/github/libtorch/libtorch_evaluate/dataset/ch02_samples/FLIR_00006.jpeg
+/home/lh/github/libtorch/libtorch_evaluate/dataset/ch02_samples/FLIR_00006.txt
